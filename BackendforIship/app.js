@@ -15,7 +15,7 @@ app.use(cors({
 }));
 
 
-mongoose.connect("mongodb+srv://sravyabulusu2005:vWQJNtL4N2tzkgbb@cluster0.py4um.mongodb.net/")
+mongoose.connect("mongodb+srv://saibhanualamuri:<1>@cluster0.fpgxz.mongodb.net/")
 .then(result=>
 {
   console.log("Connected Successfully");
